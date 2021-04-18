@@ -1,0 +1,5 @@
+Model	'R package and primary functions'
+Geographical detector (GD) (Wang et al 2010; 2016)	"""GD"" package (Song et al 2020a): functions `gd`, `riskmean`, `gdrisk`, `gdinteract`, and `gdeco`."
+Optimal parameters-based geographical detector (OPGD) (Song et al 2020a)	"""GD"" package (Song et al 2020a): functions `gdm`, `optidisc`, and `sesu`."
+Spatial association detector (SPADE) (Cang et al 2018)	"""IDSA"" package (Song et al 2021): function `spade`."
+Interactive detector for spatial associations (IDSA) (Song et al 2021)	"""IDSA"" package (Song et al 2021): function `idsa`."

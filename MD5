@@ -1,5 +1,5 @@
-63f8a294e26951d65a7609342119c921 *DESCRIPTION
-dbdf75fe50d6f500f71f3a9f98ef1e9e *INDEX
+77319e9175b887ffc5425ed2b74571db *DESCRIPTION
+fb4b08d5db6a9eef5ec989a532868c0f *INDEX
 e372a34c3c354f7cab213c2d3fd8dd24 *NAMESPACE
 4aca557fec78e784f1a1409627ad0e92 *R/data.R
 de798d77dbe7e83be652febfee1e4f35 *R/discretize.R
@@ -19,7 +19,12 @@ c966b3569935cedbf6dc6cbb71af9ae6 *R/selectidsa.R
 fe5af1f1864bdcaf7360dc7e1bfaee1c *R/sigratio.R
 340c5e50d47902b4dfec3a7251526589 *R/spade.R
 79a03b569d202b8d8c1ef415b8c866f3 *R/tau.R
+99e3d95b44552f372a5cb922913bb2cb *R/zzz.R
+e8569cdbc0ab6120f577d23e0f858d52 *build/vignette.rds
 0256ae55a49ae3d2c48c99c0f23b6b57 *data/sim.rda
+a9b1d5bc244fc737e2579780bc6489dc *inst/doc/IDSA.R
+bcc72f05741a328bcb104483711c19fa *inst/doc/IDSA.Rmd
+8a42c87a1078dc590e4e54873228aeb6 *inst/doc/IDSA.pdf
 04ecb401e38a49e55965949f038c3f61 *man/discretize.Rd
 25917ee2f1b86cba78b43e3ad7ab8cac *man/fuzzyoverlay.Rd
 9ff1b6a73dc5357e34ebb8a0a0008277 *man/idsa.Rd
@@ -38,3 +43,10 @@ ca79c725ae3be075b801a9542831306d *man/sigratio.Rd
 bc524b10f7da3094aacba0d675fee0e6 *man/sim.Rd
 0c8dd615b159b0d079ebb9b3e8dd975a *man/spade.Rd
 1d57ffab304e9c65d5a5b9876276c776 *man/tau.Rd
+bcc72f05741a328bcb104483711c19fa *vignettes/IDSA.Rmd
+3ff35737042c6e561ead729f200791fd *vignettes/fig/fig1.pdf
+86a39549ff06c31b13f9b42fddb36ccb *vignettes/fig/fig2.pdf
+fe97230672ac106e7ce37fb638812d93 *vignettes/fig/fig3.pdf
+f3a06b5cb4dff010aec0fd407857028a *vignettes/fig/fig4.pdf
+c53ed4435915a3554f112463e44f6b9f *vignettes/fig/fig5.pdf
+11768e6a0eb682580fb859d1e5ee3c00 *vignettes/table1.txt

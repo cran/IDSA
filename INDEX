@@ -1,31 +1,22 @@
-discretize            Spatial discretization.
-fuzzyoverlay          Spatial fuzzy overlay.
-idsa                  IDSA model with spatial discretization
-                      parameters.
-loessoptidisc         Strategy 2: Optimal spatial data
-                      discretization for individual variables
-                      based on SPADE model.
-optidiscqs1           Strategy 1: Optimal spatial data
-                      discretization for individual variables
-                      based on SPADE model.
-plotdisc              Plot spatial discretization matrix.
-qs                    Power of spatial determinant (PSD).
-qs1                   Power of spatial and multilevel
-                      discretization determinant (PSMD) of SPADE
-                      model for an individual explanatory
-                      variable.
-qs2                   Power of interactive determinant for
-                      multiple explanatory variables in IDSA
-                      model.
-qs2all                IDSA of all combinations
-qsoverlay             PSD with an overlay variable.
-selectaddavar         Selecting and adding a variable to improve
-                      PID.
-selectgd              Selecting optimal interaction for GD model.
-selectidsa            Selecting optimal interaction for IDSA
-                      model.
-sigratio              Ration of significantly different zones.
-sim                   Simulation data.
-spade                 SPADE model with spatial discretization
-                      parameters.
-tau                   Spatial dependence parameter.
+discretize                         Spatial discretization.
+fuzzyoverlay                       Spatial fuzzy overlay.
+idsa                               IDSA model with spatial discretization parameters.
+loessoptidisc                      Strategy 2: Optimal spatial data discretization for individual
+                                   variables based on SPADE model.
+optidiscqs1                        Strategy 1: Optimal spatial data discretization for individual
+                                   variables based on SPADE model.
+plotdisc                           Plot spatial discretization matrix.
+qs                                 Power of spatial determinant (PSD).
+qs1                                Power of spatial and multilevel discretization determinant (PSMD) of
+                                   SPADE model for an individual explanatory variable.
+qs2                                Power of interactive determinant for multiple explanatory variables
+                                   in IDSA model.
+qs2all                             IDSA of all combinations
+qsoverlay                          PSD with an overlay variable.
+selectaddavar                      Selecting and adding a variable to improve PID.
+selectgd                           Selecting optimal interaction for GD model.
+selectidsa                         Selecting optimal interaction for IDSA model.
+sigratio                           Ratio of significantly different zones.
+sim                                Simulation data.
+spade                              SPADE model with spatial discretization parameters.
+tau                                Spatial dependence parameter.
